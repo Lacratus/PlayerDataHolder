@@ -1,0 +1,12 @@
+name: PlayerdataHolder
+version: ${project.version}
+main: be.lacratus.playerdataholder.Playerdataholder
+authors: [Lacratus]
+description: Plugin to hold playerdata
+
+commands:
+  fly:
+  gamemode:
+    aliases: gm
+  time:
+  playerdata:

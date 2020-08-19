@@ -1,0 +1,9 @@
+use-mysql: false
+
+host: "localhost"
+port: 3306
+database: "playerdataholder"
+username: "root"
+password: ""
+
+world:
